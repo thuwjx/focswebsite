@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tentative Schedule"
+theme = "hyde"
+
+[params]
+  description = "FOCS 2018 workshop"
